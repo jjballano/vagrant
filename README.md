@@ -1,1 +1,1 @@
-# vagrant
+Vagrantfiles created for different projects
