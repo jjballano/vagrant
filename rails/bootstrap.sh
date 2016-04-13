@@ -17,6 +17,8 @@ apt-get -y update >/dev/null 2>&1
 
 install 'development tools' build-essential
 
+install Git git
+
 install Ruby ruby2.3 ruby2.3-dev
 update-alternatives --set ruby /usr/bin/ruby2.3 >/dev/null 2>&1
 update-alternatives --set gem /usr/bin/gem2.3 >/dev/null 2>&1

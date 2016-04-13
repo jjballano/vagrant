@@ -8,6 +8,8 @@
 
 * Bundler
 
+* Git
+
 * Postgres (user: vagrant, password: vagrant)
 
 * System dependencies for nokogiri and pg
