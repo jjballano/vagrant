@@ -12,6 +12,8 @@
 
 * System dependencies for nokogiri and pg
 
+* An ExecJS runtime
+
 
 ## Thanks
 

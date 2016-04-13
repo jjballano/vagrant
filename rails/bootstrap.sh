@@ -33,5 +33,6 @@ EOF
 sudo su postgres -c "psql -c \"CREATE ROLE vagrant SUPERUSER LOGIN PASSWORD 'vagrant'\" "
 
 install 'Nokogiri dependencies' libxml2 libxml2-dev libxslt1-dev
+install 'ExecJS runtime' nodejs
 
 echo 'all set, rock on!'
