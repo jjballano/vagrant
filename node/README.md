@@ -2,6 +2,6 @@
 
 ## Content
 
-* Node
-* Npm
+* Node 6.x
+* Npm 3.x
 
